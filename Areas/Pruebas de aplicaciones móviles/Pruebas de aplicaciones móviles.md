@@ -71,3 +71,4 @@ Condensado de la introducción (págs. 14–17), las referencias (págs. 59–60
 
 ## Relaciones
 <!-- Solo nodos principales que ya existen en Areas/. Formato: - [[Areas/<Área>/<Área>|<Área>]]: motivo concreto de la relación -->
+- [[Areas/Probador ágil/Probador ágil|Probador ágil]]: el programa incluye CTFL-AT 2014 entre sus documentos ISTQB de referencia (sección 6.1, pág. 59). Ambos tratan la pirámide de prueba: aquí, en el apartado 3.4.2, su inversión en móviles; allá, en el 3.1.2.

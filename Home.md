@@ -10,6 +10,9 @@ tags: [indice]
 
 ## Áreas
 <!-- Una línea por área, en orden alfabético: - [[Areas/<Área>/<Área>|<Área>]] -->
+- [[Areas/Probador ágil/Probador ágil|Probador ágil]]
 - [[Areas/Pruebas de aplicaciones móviles/Pruebas de aplicaciones móviles|Pruebas de aplicaciones móviles]]
 
 Glosario transversal: [[Índice de términos]]
+
+Glosario completo de referencia: [[Referencias/Glosario ISTQB 4.8.1]]
