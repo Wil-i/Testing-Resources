@@ -1,22 +1,15 @@
 ---
-tags: [moc]
+tags: [indice]
 ---
 
 # Wiki de Testing
 
-Punto de entrada de la wiki. Cada sección enlaza sus notas; si una nota no aparece aquí, todavía está en [[#Inbox]].
+Índice de áreas de testing. Cada área es una carpeta en `Areas/` con un nodo principal y un sub-nodo por capítulo, generada a partir de un documento.
 
-## Fundamentos
-<!-- Conceptos base: pirámide de pruebas, niveles, terminología -->
+> El grafo está filtrado a `Areas/`, así que esta página no aparece en él y no crea un nodo central artificial.
 
-## Tipos de prueba
-<!-- Unitarias, integración, E2E, regresión, rendimiento, UAT... -->
+## Áreas
+<!-- Una línea por área, en orden alfabético: - [[Areas/<Área>/<Área>|<Área>]] -->
+- [[Areas/Pruebas de aplicaciones móviles/Pruebas de aplicaciones móviles|Pruebas de aplicaciones móviles]]
 
-## Herramientas
-<!-- Frameworks, runners, librerías, entornos -->
-
-## Guías
-<!-- Procedimientos paso a paso, checklists, casos prácticos -->
-
-## Inbox
-Chunks crudos pendientes de procesar: carpeta `00-Inbox/`.
+Glosario transversal: [[Índice de términos]]
