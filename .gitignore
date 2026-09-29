@@ -1,0 +1,5 @@
+# Obsidian: estado local por usuario
+.obsidian/workspace*.json
+.obsidian/cache
+.obsidian/plugins/*/data.json
+.trash/
