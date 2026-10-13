@@ -10,6 +10,7 @@ tags: [indice]
 
 ## Áreas
 <!-- Una línea por área, en orden alfabético: - [[Areas/<Área>/<Área>|<Área>]] -->
+- [[Areas/Fundamentos de prueba/Fundamentos de prueba|Fundamentos de prueba]]
 - [[Areas/Probador ágil/Probador ágil|Probador ágil]]
 - [[Areas/Pruebas de aplicaciones móviles/Pruebas de aplicaciones móviles|Pruebas de aplicaciones móviles]]
 

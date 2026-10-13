@@ -71,4 +71,5 @@ Condensado de la introducción (págs. 14–17), las referencias (págs. 59–60
 
 ## Relaciones
 <!-- Solo nodos principales que ya existen en Areas/. Formato: - [[Areas/<Área>/<Área>|<Área>]]: motivo concreto de la relación -->
+- [[Areas/Fundamentos de prueba/Fundamentos de prueba|Fundamentos de prueba]]: el programa exige el certificado ISTQB de Nivel Básico antes del examen (sección 0.8, pág. 17) y aplica al contexto móvil los tipos de prueba comunes y el proceso de prueba del programa de Nivel Básico (resultado NBPAM-04, pág. 15; objetivo NBPAM-3.4.1, pág. 40), aunque referencia su versión 2018 ([ISTQB_CTFL_2018], sección 6.1, pág. 59) y no la 4.0 que recoge esa área. El CTFL 4.0 cita la prueba de aplicaciones móviles como ejemplo de la corriente de Especialista (sección 0.3, pág. 10).
 - [[Areas/Probador ágil/Probador ágil|Probador ágil]]: el programa incluye CTFL-AT 2014 entre sus documentos ISTQB de referencia (sección 6.1, pág. 59). Ambos tratan la pirámide de prueba: aquí, en el apartado 3.4.2, su inversión en móviles; allá, en el 3.1.2.
